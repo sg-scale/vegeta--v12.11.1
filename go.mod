@@ -1,6 +1,6 @@
 module github.com/tsenart/vegeta/v12
 
-go 1.20
+go 1.23
 
 require (
 	github.com/alecthomas/jsonschema v0.0.0-20220216202328-9eeeec9d044b
@@ -18,7 +18,7 @@ require (
 	github.com/streadway/quantile v0.0.0-20220407130108-4246515d968d
 	github.com/tsenart/go-tsz v0.0.0-20180814235614-0bd30b3df1c3
 	golang.org/x/net v0.15.0
-	pgregory.net/rapid v1.1.0
+	pgregory.net/rapid v1.3.0
 )
 
 require (
